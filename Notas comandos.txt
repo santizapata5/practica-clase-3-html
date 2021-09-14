@@ -5,3 +5,27 @@ pwd comando mostrar ubicacion
 mkdir css - crear carpetas
 
 mkdir js imgs - crear carpetas
+
+git --version
+
+clear	
+
+touch index.html 
+
+cd css - ingresar a carpeta css
+
+touch main.css
+
+cd .. (regresar a carpeta anterior)
+
+git init
+
+git status
+
+git add -A
+
+git status
+
+rm - rf (nunca nunca usar o borra todo el pc)
+
+git commit -m "name"
