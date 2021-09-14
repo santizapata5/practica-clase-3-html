@@ -1,0 +1,7 @@
+clic derecho - git bash
+
+pwd comando mostrar ubicacion
+
+mkdir css - crear carpetas
+
+mkdir js imgs - crear carpetas
